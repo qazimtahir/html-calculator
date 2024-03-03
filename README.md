@@ -6,7 +6,7 @@ This is a simple project of JavaScript for making a simple html calculator.
 
 ## Author:
 Muhammad Tahir Iqbal. 
-https://github.com/qazimtahir/
+https://github.com/qazimtahir/html-calculator/
 
 ## Tools used:
 
